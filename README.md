@@ -6,7 +6,7 @@
 
 ### Language and Tools <img src="https://i.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.webp" width="18px"> :
 <h3></h3>
-<a href="https://www.java.com/pt-BR/"> <img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width = "40"/> </a>&nbsp;
+<a href="https://www.java.com/pt-BR/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width = "40"/> </a>&nbsp;
 <a href="https://www.python.org/"> <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" width = "40"/> </a>&nbsp;
 <a href="https://www.selenium.dev/"> <img src="https://www.drupal.org/files/styles/grid-3-2x/public/images/big-logo.png?itok=0nhPkZpp" width = "48" height = "42"/> </a>&nbsp;
 <a href="https://cucumber.io/"> <img src="https://avatars2.githubusercontent.com/u/320565?s=400&amp;v=4" width = "45" height = "42"/> </a>&nbsp;
