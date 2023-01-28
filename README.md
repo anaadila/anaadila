@@ -10,7 +10,6 @@
 <a href="https://www.python.org/"> <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" width = "40"/> </a>&nbsp;
 <a href="https://www.selenium.dev/"> <img src="https://www.drupal.org/files/styles/grid-3-2x/public/images/big-logo.png?itok=0nhPkZpp" width = "48" height = "42"/> </a>&nbsp;
 <a href="https://cucumber.io/"> <img src="https://avatars2.githubusercontent.com/u/320565?s=400&amp;v=4" width = "45" height = "42"/> </a>&nbsp;
-<a href=""> <img src="" width = "40"/> </a>&nbsp;
 <a href="https://git-scm.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width = "40"/> </a>&nbsp;
 <a href="https://www.learn-html.org/"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width = "40"/> </a>&nbsp;
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width = "33"/></a>&nbsp;
