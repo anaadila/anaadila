@@ -21,7 +21,6 @@
 <a href="https://github.com/anaadila/certificates">Certificates repository</a>
 <h3></h3>
 
-<br>
 
 ### ✨Social Media:
 <a href="https://mail.google.com/mail/u/0/?fs=1&to=anaadilacc@gmail.com&tf=cm"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width = "20"/></a> &nbsp;
