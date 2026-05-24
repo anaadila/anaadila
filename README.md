@@ -17,7 +17,7 @@
 
 <br>
 
-### Certificates <img src="https://freeiconshop.com/wp-content/uploads/edd/certificate-flat.png" width="20px"> :
+### Certificates <img src="https://www.freeiconspng.com/uploads/certificate-icon-15.png" width="20px"> :
 <a href="https://github.com/anaadila/certificates">Certificates repository</a>
 <h3></h3>
 
