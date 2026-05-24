@@ -25,5 +25,5 @@
 ### ✨Social Media:
 <a href="https://mail.google.com/mail/u/0/?fs=1&to=anaadilacc@gmail.com&tf=cm"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width = "20"/></a> &nbsp;
 <a href="https://www.linkedin.com/in/ana-adila-colares-costa/"> <img src="https://expertdigital.net/wp-content/uploads/2018/11/linkedin-logo.png" width = "20" /> </a>
-<a href="http://lattes.cnpq.br/4067980836005468"> <img src="https://niteroiemimagens.cinemauff.com.br/wp-content/uploads/2022/10/lattes-logo-01.png" width = "65"/> </a>
+<a href="http://lattes.cnpq.br/4067980836005468"> <img src="https://cdn-icons-png.flaticon.com/256/3536/3536505.png" width = "65"/> </a>
 
