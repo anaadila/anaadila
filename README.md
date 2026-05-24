@@ -1,8 +1,8 @@
 # Hi there, I'm Ana Ádila 👋
 
-![Ana Ádila GitHub's Status](https://github-readme-stats.vercel.app/api?username=anaadila&show_icons=true&title_color=31cc99&icon_color=31cc99&text_color=bfbfbf&bg_color=151515)
+![Ana Ádila GitHub's Status](https://github-readme-stats-alpha-wheat-87.vercel.app/api?username=anaadila&show_icons=true&title_color=31cc99&icon_color=31cc99&text_color=bfbfbf&bg_color=151515)
 
-![Ana Ádila Most Used langagues](https://github-readme-stats.vercel.app/api/top-langs/?username=anaadila&layout=compact&show_icons=true&title_color=31cc99&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&langs_count=10)
+![Ana Ádila Most Used langagues](https://github-readme-stats-alpha-wheat-87.vercel.app/api/top-langs/?username=anaadila&layout=compact&show_icons=true&title_color=31cc99&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&langs_count=10)
 
 ### Language and Tools <img src="https://i.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.webp" width="18px"> :
 <h3></h3>
